@@ -1,8 +1,8 @@
 # Quiz2_Flutter_Kelompok19
 
 ## Nama Anggota Kelompok :
-- Adinda Salsabilla
-- Farah Balqist
+- Adinda Salsabilla (2005319)
+- Farah Balqist (2007339)
 
 ## Deskripsi Quiz 2 Flutter
 1. Gunakan template berikut, dan lengkapi codenya, https://docs.google.com/document/d/16FSZe6XxyyKlUGj4Ee-wgdYmppuMWhENdBkvemUOFR0/edit?usp=sharing 
@@ -12,4 +12,5 @@ tambahkan perjanjian untuk snackbar "Kami berjanji tidak akan berbuat curang dan
 Catatan: icon dan image tidak harus sama persis. 
 Petunjuk: jika ListView tidak muncul,  letakkan ListView di dalam Expanded
 Submit URL repo github.
+
 ![image](https://lh5.googleusercontent.com/2IO--i279PA9VDS82s_hBMh7goJwREJWBKGRJF97GNU2JJhkgnFePsqkgrFtJfAKMr0pvbyuvHhvdHLn8myXctw5JGdIfePfC5JelbWQ6cgYAuNWgPJODmZyUm0Me0Qsuw=w411)
